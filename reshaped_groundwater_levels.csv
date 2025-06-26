@@ -1,0 +1,313 @@
+district,month,groundwater_level
+Srikakulam,Mar,9.7
+Vizianagaram,Mar,6.71
+Parvathipuram Manyam,Mar,7.81
+Alluri Sitharama Raju,Mar,8.37
+Visakhapatnam,Mar,9.06
+Anakapalli,Mar,7.08
+Kakinada,Mar,8.82
+Konaseema,Mar,3.58
+East Godavari,Mar,24.6
+West Godavari,Mar,8.94
+Eluru,Mar,22.74
+Krishna,Mar,9.87
+NTR,Mar,7.75
+Guntur,Mar,6.23
+Bapatla,Mar,4.24
+Palnadu,Mar,18.06
+Prakasam,Mar,19.59
+Sri Potti Sriramulu Nellore,Mar,6.07
+Kurnool,Mar,10.08
+Nandyal,Mar,10.5
+Ananthapuramu,Mar,13.53
+Sri Sathya Sai,Mar,14.88
+Y.S.R Kadapa,Mar,13.88
+Annamayya,Mar,12.4
+Chittoor,Mar,11.79
+Tirupati,Mar,5.6
+Srikakulam,May,10.02
+Vizianagaram,May,6.64
+Parvathipuram Manyam,May,8.13
+Alluri Sitharama Raju,May,9.06
+Visakhapatnam,May,10.82
+Anakapalli,May,8
+Kakinada,May,9.8
+Konaseema,May,3.8
+East Godavari,May,24.77
+West Godavari,May,9
+Eluru,May,23.67
+Krishna,May,10.21
+NTR,May,8.42
+Guntur,May,6.72
+Bapatla,May,4.46
+Palnadu,May,14.88
+Prakasam,May,21.59
+Sri Potti Sriramulu Nellore,May,7.07
+Kurnool,May,10.35
+Nandyal,May,10.83
+Ananthapuramu,May,15.22
+Sri Sathya Sai,May,20.44
+Y.S.R Kadapa,May,13.83
+Annamayya,May,18.13
+Chittoor,May,13.83
+Tirupati,May,6.78
+Srikakulam,Nov,6.95
+Vizianagaram,Nov,4.24
+Parvathipuram Manyam,Nov,6.61
+Alluri Sitharama Raju,Nov,6.26
+Visakhapatnam,Nov,5.63
+Anakapalli,Nov,4.16
+Kakinada,Nov,5.69
+Konaseema,Nov,2.64
+East Godavari,Nov,21.66
+West Godavari,Nov,7.37
+Eluru,Nov,17.59
+Krishna,Nov,7.95
+NTR,Nov,3.83
+Guntur,Nov,3.39
+Bapatla,Nov,2.63
+Palnadu,Nov,6.91
+Prakasam,Nov,13.07
+Sri Potti Sriramulu Nellore,Nov,5.76
+Kurnool,Nov,6.78
+Nandyal,Nov,5.21
+Ananthapuramu,Nov,8.27
+Sri Sathya Sai,Nov,7.76
+Y.S.R Kadapa,Nov,7.98
+Annamayya,Nov,13.62
+Chittoor,Nov,11.18
+Tirupati,Nov,4.38
+Srikakulam,Feb,8.9
+Vizianagaram,Feb,5.89
+Parvathipuram Manyam,Feb,8.21
+Alluri Sitharama Raju,Feb,8.54
+Visakhapatnam,Feb,7.35
+Anakapalli,Feb,6.24
+Kakinada,Feb,7.62
+Konaseema,Feb,3.6
+East Godavari,Feb,25.41
+West Godavari,Feb,8.99
+Eluru,Feb,18.15
+Krishna,Feb,9.87
+NTR,Feb,6.39
+Guntur,Feb,5.87
+Bapatla,Feb,3.8
+Palnadu,Feb,9.12
+Prakasam,Feb,15.31
+Sri Potti Sriramulu Nellore,Feb,5.78
+Kurnool,Feb,8.6
+Nandyal,Feb,8.14
+Ananthapuramu,Feb,11.36
+Sri Sathya Sai,Feb,11.88
+Y.S.R Kadapa,Feb,10.62
+Annamayya,Feb,14.89
+Chittoor,Feb,12.46
+Tirupati,Feb,4.41
+Srikakulam,Apr,8.35
+Vizianagaram,Apr,5.95
+Parvathipuram Manyam,Apr,7.3
+Alluri Sitharama Raju,Apr,8.61
+Visakhapatnam,Apr,8.37
+Anakapalli,Apr,6.31
+Kakinada,Apr,7.92
+Konaseema,Apr,3.67
+East Godavari,Apr,19.9
+West Godavari,Apr,8.37
+Eluru,Apr,20.78
+Krishna,Apr,9.41
+NTR,Apr,7.1
+Guntur,Apr,5.41
+Bapatla,Apr,3.59
+Palnadu,Apr,11.19
+Prakasam,Apr,16.85
+Sri Potti Sriramulu Nellore,Apr,5.2
+Kurnool,Apr,6.91
+Nandyal,Apr,7.46
+Ananthapuramu,Apr,7.84
+Sri Sathya Sai,Apr,8.35
+Y.S.R Kadapa,Apr,8.8
+Annamayya,Apr,8.93
+Chittoor,Apr,9.6
+Tirupati,Apr,4.67
+Srikakulam,Jan,7.38
+Vizianagaram,Jan,3.65
+Parvathipuram Manyam,Jan,6.92
+Alluri Sitharama Raju,Jan,6.96
+Visakhapatnam,Jan,6.48
+Anakapalli,Jan,4.83
+Kakinada,Jan,6.88
+Konaseema,Jan,3.12
+East Godavari,Jan,23.93
+West Godavari,Jan,8.29
+Eluru,Jan,17.55
+Krishna,Jan,8.99
+NTR,Jan,5.15
+Guntur,Jan,4.32
+Bapatla,Jan,3.44
+Palnadu,Jan,8.34
+Prakasam,Jan,12.63
+Sri Potti Sriramulu Nellore,Jan,5.54
+Kurnool,Jan,7.86
+Nandyal,Jan,5.88
+Ananthapuramu,Jan,9.41
+Sri Sathya Sai,Jan,8.81
+Y.S.R Kadapa,Jan,7.82
+Annamayya,Jan,9.42
+Chittoor,Jan,9.6
+Tirupati,Jan,3.12
+Srikakulam,Jun,9.75
+Vizianagaram,Jun,5.92
+Parvathipuram Manyam,Jun,8.67
+Alluri Sitharama Raju,Jun,8.82
+Visakhapatnam,Jun,10.52
+Anakapalli,Jun,7.36
+Kakinada,Jun,8.7
+Konaseema,Jun,3.82
+East Godavari,Jun,25.29
+West Godavari,Jun,9.2
+Eluru,Jun,23.1
+Krishna,Jun,10.35
+NTR,Jun,7.8
+Guntur,Jun,6.83
+Bapatla,Jun,4.62
+Palnadu,Jun,15.01
+Prakasam,Jun,21.49
+Sri Potti Sriramulu Nellore,Jun,7.46
+Kurnool,Jun,8.88
+Nandyal,Jun,8.25
+Ananthapuramu,Jun,12.73
+Sri Sathya Sai,Jun,10.5
+Y.S.R Kadapa,Jun,13.12
+Annamayya,Jun,16.41
+Chittoor,Jun,12.76
+Tirupati,Jun,7.03
+Srikakulam,Jul,7.96
+Vizianagaram,Jul,4.26
+Parvathipuram Manyam,Jul,7
+Alluri Sitharama Raju,Jul,7.82
+Visakhapatnam,Jul,8.38
+Anakapalli,Jul,5.39
+Kakinada,Jul,7.15
+Konaseema,Jul,3.24
+East Godavari,Jul,21.84
+West Godavari,Jul,8.09
+Eluru,Jul,20.26
+Krishna,Jul,9.77
+NTR,Jul,5.91
+Guntur,Jul,5.31
+Bapatla,Jul,4.09
+Palnadu,Jul,12.54
+Prakasam,Jul,21.58
+Sri Potti Sriramulu Nellore,Jul,7.41
+Kurnool,Jul,8.73
+Nandyal,Jul,7.84
+Ananthapuramu,Jul,13.32
+Sri Sathya Sai,Jul,13.89
+Y.S.R Kadapa,Jul,12.84
+Annamayya,Jul,16.81
+Chittoor,Jul,12.6
+Tirupati,Jul,6.86
+Srikakulam,Aug,7.11
+Vizianagaram,Aug,4.14
+Parvathipuram Manyam,Aug,5.75
+Alluri Sitharama Raju,Aug,6.46
+Visakhapatnam,Aug,8.43
+Anakapalli,Aug,5.26
+Kakinada,Aug,6.77
+Konaseema,Aug,3.11
+East Godavari,Aug,21.89
+West Godavari,Aug,7.76
+Eluru,Aug,20.73
+Krishna,Aug,9.6
+NTR,Aug,4.92
+Guntur,Aug,4.98
+Bapatla,Aug,3.7
+Palnadu,Aug,11
+Prakasam,Aug,22.71
+Sri Potti Sriramulu Nellore,Aug,7.28
+Kurnool,Aug,8.44
+Nandyal,Aug,6.91
+Ananthapuramu,Aug,12.63
+Sri Sathya Sai,Aug,15.51
+Y.S.R Kadapa,Aug,12.39
+Annamayya,Aug,17.2
+Chittoor,Aug,13.17
+Tirupati,Aug,7.28
+Srikakulam,Sep,5.85
+Vizianagaram,Sep,2.96
+Parvathipuram Manyam,Sep,5.18
+Alluri Sitharama Raju,Sep,5.15
+Visakhapatnam,Sep,4.93
+Anakapalli,Sep,3.36
+Kakinada,Sep,5.59
+Konaseema,Sep,1.91
+East Godavari,Sep,21.19
+West Godavari,Sep,7.22
+Eluru,Sep,16.6
+Krishna,Sep,8.06
+NTR,Sep,3.21
+Guntur,Sep,3.34
+Bapatla,Sep,3.34
+Palnadu,Sep,7.03
+Prakasam,Sep,18.54
+Sri Potti Sriramulu Nellore,Sep,7.58
+Kurnool,Sep,7.33
+Nandyal,Sep,6.16
+Ananthapuramu,Sep,10.89
+Sri Sathya Sai,Sep,13.79
+Y.S.R Kadapa,Sep,12.25
+Annamayya,Sep,18.26
+Chittoor,Sep,13.56
+Tirupati,Sep,7.43
+Srikakulam,Oct,6.01
+Vizianagaram,Oct,3.26
+Parvathipuram Manyam,Oct,5.52
+Alluri Sitharama Raju,Oct,5.78
+Visakhapatnam,Oct,4.41
+Anakapalli,Oct,3.58
+Kakinada,Oct,5.09
+Konaseema,Oct,2.06
+East Godavari,Oct,21.11
+West Godavari,Oct,6.87
+Eluru,Oct,16.7
+Krishna,Oct,8.79
+NTR,Oct,3.39
+Guntur,Oct,2.63
+Bapatla,Oct,2.07
+Palnadu,Oct,6.62
+Prakasam,Oct,16.44
+Sri Potti Sriramulu Nellore,Oct,6.48
+Kurnool,Oct,6.19
+Nandyal,Oct,5.32
+Ananthapuramu,Oct,8.79
+Sri Sathya Sai,Oct,9.46
+Y.S.R Kadapa,Oct,10.29
+Annamayya,Oct,14.6
+Chittoor,Oct,12.41
+Tirupati,Oct,5.5
+Srikakulam,Dec,7.1
+Vizianagaram,Dec,3.03
+Parvathipuram Manyam,Dec,7.39
+Alluri Sitharama Raju,Dec,6.96
+Visakhapatnam,Dec,5.58
+Anakapalli,Dec,4.31
+Kakinada,Dec,5.85
+Konaseema,Dec,2.71
+East Godavari,Dec,22.28
+West Godavari,Dec,7.93
+Eluru,Dec,17.48
+Krishna,Dec,8.38
+NTR,Dec,4.43
+Guntur,Dec,4.09
+Bapatla,Dec,3.1
+Palnadu,Dec,7.99
+Prakasam,Dec,11.97
+Sri Potti Sriramulu Nellore,Dec,5.63
+Kurnool,Dec,7.43
+Nandyal,Dec,5.3
+Ananthapuramu,Dec,8.71
+Sri Sathya Sai,Dec,7.64
+Y.S.R Kadapa,Dec,7.19
+Annamayya,Dec,9.08
+Chittoor,Dec,9.68
+Tirupati,Dec,2.58
